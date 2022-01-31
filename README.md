@@ -15,3 +15,9 @@ automaton 2.5 equality.agda
 
 * C-c C-l 結果 
 \*All Done\*
+
+# automaton-2.7
+automaton 2.7 level1.agda
+
+* C-c C-l 結果 
+\*All Done\*
